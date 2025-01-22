@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Space Physics
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Alt text](https://imagedelivery.net/ra500NQoeUq2mHNe2TetzA/723da983-65d7-4b24-a867-e38f58d3d700/public)
 
 ## Available Scripts
 
